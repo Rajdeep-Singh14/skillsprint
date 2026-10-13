@@ -1,0 +1,22 @@
+{
+  "name": "skillsprint-root",
+  "version": "1.0.0",
+  "description": "SkillSprint - Personal Learning Management Web Application (MERN Stack)",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "test:backend": "npm --prefix backend test",
+    "build": "npm --prefix frontend run build",
+    "test": "npm --prefix backend test"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "express",
+    "mongodb",
+    "learning-tracker",
+    "streak"
+  ],
+  "author": "",
+  "license": "ISC"
+}
